@@ -8,7 +8,6 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-///<reference path="../resources/pixi.js.d.ts" />
 var SpaceShooter;
 (function (SpaceShooter) {
     SpaceShooter.CANVAS_X = 800;
